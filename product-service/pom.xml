@@ -11,5 +11,13 @@
 
     <artifactId>product-service</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.wyx.rpc</groupId>
+            <artifactId>product-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
